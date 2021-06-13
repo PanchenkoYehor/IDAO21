@@ -8,4 +8,4 @@ It means that we could figure out our accuracy and therefore have known AUC ROC.
 Also, I needed to extract some characteristic values from images. So I have divided a picture into 49 squares and then have
 realized something like a bfs with a step that I controlled.
 
-All this stuff I am going to explain in few days
+All this stuff I am going to explain in few weeks
